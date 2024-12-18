@@ -1,0 +1,22 @@
+@media (max-width:1024px){
+
+}
+
+@media (max-width:991px){
+    .navbar{
+        background-color: rgba(255, 255, 255, 0.9);
+    }
+}
+
+@media (max-width:767px){
+
+.story-section{
+height: auto;
+padding: 3rem 0;
+}
+
+}
+
+@media (max-width:330px){
+
+}
